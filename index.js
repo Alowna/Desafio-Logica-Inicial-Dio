@@ -23,4 +23,4 @@ if(xpHeroi<1000){
     nivelHeroi = "Invalido"
 }
 
-console.log("\"O heroi de nome **{"+nomeHeroi+"}** está no nível de **{"+nivelHeroi+"}**\"")
+console.log("\"O heroi de nome {"+nomeHeroi+"} está no nível de {"+nivelHeroi+"}\"")
